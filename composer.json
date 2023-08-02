@@ -1,0 +1,5 @@
+{
+    "autoload": {
+        "files": ["lib/Foo.php", "lib/Bar.php"]
+    }
+}
